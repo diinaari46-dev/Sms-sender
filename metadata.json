@@ -1,0 +1,6 @@
+{
+  "name": "SMS Reminder Dashboard",
+  "description": "Control panel for an SMS reminder system to manage customer balances, compose personalized Somali and English SMS campaigns, and synchronize with an Android SMS gateway.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
